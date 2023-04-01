@@ -1,5 +1,3 @@
-import './style.css';
-
 const slide = document.querySelector('.slide')
 const root = document.querySelector(":root")
 let slideIndex = 1;
